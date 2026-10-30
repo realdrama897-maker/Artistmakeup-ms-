@@ -1,0 +1,791 @@
+{
+  "users": [
+    {
+      "id": "admin-glowstudio-01",
+      "email": "gkgmkg345@gmail.com",
+      "passwordHash": "$2b$10$vLGclmpmc1Wd/CwlK4eaXeqnwB4OHFUD9rwTqvbMPPEElj8Y07Cby",
+      "name": "Super Admin",
+      "phone": "+91 99999 88888",
+      "role": "admin",
+      "createdAt": "2026-10-29T14:01:22.142Z"
+    },
+    {
+      "id": "art-priya-sharma",
+      "email": "priya.sharma@glowstudio.in",
+      "passwordHash": "$2b$10$seYthvzqKVdohbLqz0SzIeYK7Fru5nmRjUF56w9MMAgzk0zT7ydB6",
+      "name": "Priya Sharma",
+      "phone": "+91 98112 34567",
+      "whatsapp": "+919811234567",
+      "role": "artist",
+      "shopName": "Priya Glamour Bridal Hub",
+      "address": "B-42, South Extension Part 2, Ring Road",
+      "state": "Delhi NCR",
+      "district": "South Delhi",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Celebrity bridal artist with 9+ years of expertise in Airbrush, Destination Weddings, and royal North Indian Dulhan looks. Certified by London Academy of Makeup.",
+      "bioHi": "9+ वर्षों के अनुभव वाली सेलिब्रिटी ब्राइडल आर्टिस्ट। एयरब्रश और शाही दुल्हन मेकअप में विशेष दक्षता।",
+      "experienceYears": 9,
+      "isAvailable": true,
+      "approvalStatus": "approved",
+      "rating": 4.95,
+      "reviewCount": 142,
+      "startingPrice": 2499,
+      "instagramHandle": "@priyasharma_glam",
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "portfolio": [
+        "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1621786030685-2c2637a7f6ff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "servicesOffered": [
+        {
+          "serviceId": "srv-bridal",
+          "customPrice": 11999
+        },
+        {
+          "serviceId": "srv-party",
+          "customPrice": 2499
+        },
+        {
+          "serviceId": "srv-engagement",
+          "customPrice": 5499
+        },
+        {
+          "serviceId": "srv-hd-airbrush",
+          "customPrice": 14999
+        },
+        {
+          "serviceId": "srv-reception",
+          "customPrice": 7499
+        },
+        {
+          "serviceId": "srv-pre-bridal",
+          "customPrice": 8999
+        }
+      ]
+    },
+    {
+      "id": "art-ananya-verma",
+      "email": "ananya.verma@glowstudio.in",
+      "passwordHash": "$2b$10$yu8xSibECQKlmU95gquAP.KFcNQXeGYGY56b6E43YxvoofaT5PRzy",
+      "name": "Ananya Verma",
+      "phone": "+91 97234 56789",
+      "whatsapp": "+919723456789",
+      "role": "artist",
+      "shopName": "Aura Studio & Hair Lounge",
+      "address": "Plot 18, Koregaon Park, North Main Road",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=600&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Specialist in glass-skin party makeovers, HD bridal base, and premium Russian hair styling techniques. Over 450 happy brides styled.",
+      "bioHi": "ग्लास-स्किन पार्टी मेकअप और आधुनिक हेयर स्टाइलिंग स्पेशलिस्ट। 450+ संतुष्ट दुल्हनें तैयार की हैं।",
+      "experienceYears": 6,
+      "isAvailable": true,
+      "approvalStatus": "approved",
+      "rating": 4.88,
+      "reviewCount": 98,
+      "startingPrice": 1999,
+      "instagramHandle": "@ananya_aurabeauty",
+      "createdAt": "2024-03-20T11:00:00.000Z",
+      "portfolio": [
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1589156280159-27698a70f29e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80"
+      ],
+      "servicesOffered": [
+        {
+          "serviceId": "srv-bridal",
+          "customPrice": 9499
+        },
+        {
+          "serviceId": "srv-party",
+          "customPrice": 1999
+        },
+        {
+          "serviceId": "srv-hair-styling",
+          "customPrice": 999
+        },
+        {
+          "serviceId": "srv-facial-gold",
+          "customPrice": 1499
+        },
+        {
+          "serviceId": "srv-nail-art",
+          "customPrice": 1599
+        },
+        {
+          "serviceId": "srv-saree-draping",
+          "customPrice": 499
+        }
+      ]
+    },
+    {
+      "id": "art-meera-singh",
+      "email": "meera.singh@glowstudio.in",
+      "passwordHash": "$2b$10$rbwpa6.EmU1.itCo95j2weSCnKMHDBZWelgcPQmlliPmjGJEQoCT.",
+      "name": "Meera Rajput",
+      "phone": "+91 94140 12345",
+      "whatsapp": "+919414012345",
+      "role": "artist",
+      "shopName": "Rajputana Heritage Bridal Hub",
+      "address": "Near Hawa Mahal, Johari Bazaar Road",
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Master of royal Marwari bridal transformations, traditional dark Henna art, and elaborate Rajasthani jewellery draping.",
+      "bioHi": "शाही मारवाड़ी ब्राइडल श्रृंगार, शुद्ध राजस्थानी मेहंदी और पारंपरिक आभूषण सेटिंग में माहिर।",
+      "experienceYears": 12,
+      "isAvailable": true,
+      "approvalStatus": "approved",
+      "rating": 4.98,
+      "reviewCount": 215,
+      "startingPrice": 1499,
+      "instagramHandle": "@meerarajput_royal",
+      "createdAt": "2023-11-10T09:00:00.000Z",
+      "portfolio": [
+        "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1621786030685-2c2637a7f6ff?auto=format&fit=crop&w=800&q=80"
+      ],
+      "servicesOffered": [
+        {
+          "serviceId": "srv-bridal",
+          "customPrice": 10499
+        },
+        {
+          "serviceId": "srv-mehendi",
+          "customPrice": 2199
+        },
+        {
+          "serviceId": "srv-saree-draping",
+          "customPrice": 599
+        },
+        {
+          "serviceId": "srv-engagement",
+          "customPrice": 4799
+        },
+        {
+          "serviceId": "srv-facial-gold",
+          "customPrice": 1399
+        }
+      ]
+    },
+    {
+      "id": "art-tanvi-kapoor",
+      "email": "tanvi.kapoor@glowstudio.in",
+      "passwordHash": "$2b$10$PRHOflpj1glMkI4N/f6KDOotVFoQwUUeB1r0Qtf8YRr7Ib1QxiuXq",
+      "name": "Tanvi Kapoor",
+      "phone": "+91 99887 65432",
+      "whatsapp": "+919988765432",
+      "role": "artist",
+      "shopName": "GlowBar Hair & Skin Sanctuary",
+      "address": "Sector 35-B, Near Market Complex",
+      "state": "Punjab",
+      "district": "Chandigarh",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Certified cosmetologist specializing in pre-bridal glow packages, keratin nanoplastia, and ultra-hydrating facials with medical-grade hygiene.",
+      "bioHi": "सर्टिफाइड कॉस्मेटोलॉजिस्ट। प्री-ब्राइडल ग्लो, केराटिन ट्रीटमेंट और लक्जरी फेशियल स्पेशलिस्ट।",
+      "experienceYears": 7,
+      "isAvailable": true,
+      "approvalStatus": "approved",
+      "rating": 4.91,
+      "reviewCount": 76,
+      "startingPrice": 1299,
+      "instagramHandle": "@tanvi_glowbar",
+      "createdAt": "2024-02-01T14:30:00.000Z",
+      "portfolio": [
+        "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1589156280159-27698a70f29e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "servicesOffered": [
+        {
+          "serviceId": "srv-pre-bridal",
+          "customPrice": 8499
+        },
+        {
+          "serviceId": "srv-facial-gold",
+          "customPrice": 1499
+        },
+        {
+          "serviceId": "srv-keratin",
+          "customPrice": 4499
+        },
+        {
+          "serviceId": "srv-hair-spa",
+          "customPrice": 1299
+        },
+        {
+          "serviceId": "srv-waxing-full",
+          "customPrice": 1299
+        },
+        {
+          "serviceId": "srv-mani-pedi",
+          "customPrice": 1199
+        }
+      ]
+    },
+    {
+      "id": "art-neha-joshi",
+      "email": "neha.joshi@glowstudio.in",
+      "passwordHash": "$2b$10$hi7sc.u/vyb9I6kqz89mo.n/HEed9KdZ.lEKnEQoy9/SpK1ak6Zw6",
+      "name": "Neha Joshi",
+      "phone": "+91 98200 87654",
+      "whatsapp": "+919820087654",
+      "role": "artist",
+      "shopName": "Neha Makeovers Studio",
+      "address": "Lokhandwala Complex, Andheri West",
+      "state": "Maharashtra",
+      "district": "Mumbai Suburban",
+      "avatar": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&w=600&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Bollywood-trained makeup artist for fashion shoots, high-profile weddings, and editorial events. Fluent in subtle nude glam and vibrant red carpet beauty.",
+      "bioHi": "बॉलीवुड ट्रेंड मेकअप आर्टिस्ट। हाई-प्रोफाइल वेडिंग और न्यूड ग्लैम मेकअप में माहिर।",
+      "experienceYears": 8,
+      "isAvailable": true,
+      "approvalStatus": "approved",
+      "rating": 4.93,
+      "reviewCount": 110,
+      "startingPrice": 2999,
+      "instagramHandle": "@nehajoshimakeup",
+      "createdAt": "2024-01-20T12:00:00.000Z",
+      "portfolio": [
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1583001931096-959e9a1a6223?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "servicesOffered": [
+        {
+          "serviceId": "srv-bridal",
+          "customPrice": 12999
+        },
+        {
+          "serviceId": "srv-party",
+          "customPrice": 2999
+        },
+        {
+          "serviceId": "srv-hd-airbrush",
+          "customPrice": 15999
+        },
+        {
+          "serviceId": "srv-groom-makeup",
+          "customPrice": 3499
+        },
+        {
+          "serviceId": "srv-eyelashes",
+          "customPrice": 1899
+        }
+      ]
+    },
+    {
+      "id": "art-ritika-patel",
+      "email": "ritika.patel@glowstudio.in",
+      "passwordHash": "$2b$10$6DpWPSoXRYDF5FIxafmcIOrBncA999IlRb2pcG4XlgDuM3bKVpGla",
+      "name": "Ritika Patel",
+      "phone": "+91 97123 45678",
+      "whatsapp": "+919712345678",
+      "role": "artist",
+      "shopName": "Shree Glamour Salon & Spa",
+      "address": "Sindhu Bhavan Road, Bodakdev",
+      "state": "Gujarat",
+      "district": "Ahmedabad",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Specialist in Gujarati bridal looks, chaniya choli draping, nail extensions, and herbal skin rejuvenation.",
+      "bioHi": "गुजराती ब्राइडल श्रृंगार, चनिया चोली ड्रेपिंग और नेल एक्सटेंशन स्पेशलिस्ट।",
+      "experienceYears": 5,
+      "isAvailable": true,
+      "approvalStatus": "approved",
+      "rating": 4.87,
+      "reviewCount": 64,
+      "startingPrice": 1799,
+      "instagramHandle": "@ritika_patel_mua",
+      "createdAt": "2024-04-05T08:00:00.000Z",
+      "portfolio": [
+        "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "servicesOffered": [
+        {
+          "serviceId": "srv-bridal",
+          "customPrice": 8999
+        },
+        {
+          "serviceId": "srv-party",
+          "customPrice": 1799
+        },
+        {
+          "serviceId": "srv-nail-art",
+          "customPrice": 1499
+        },
+        {
+          "serviceId": "srv-cleanup-bleach",
+          "customPrice": 799
+        },
+        {
+          "serviceId": "srv-threading",
+          "customPrice": 149
+        }
+      ]
+    },
+    {
+      "id": "cust-pooja-gupta",
+      "email": "pooja.gupta@example.com",
+      "passwordHash": "$2b$10$wmcLNkxy8XWBJWX9Dy9O4ed9G4rl4JzENQN/vp2pwYbjHlrh.5bEW",
+      "name": "Pooja Gupta",
+      "phone": "+91 98765 43210",
+      "role": "customer",
+      "createdAt": "2024-02-14T09:00:00.000Z"
+    },
+    {
+      "id": "cust-simran-kaur",
+      "email": "simran.kaur@example.com",
+      "passwordHash": "$2b$10$dMzxlfWmYHhODmwqZnvFv.7YUBB2eIu3ZRm0k2dx3511tixUM6sOm",
+      "name": "Simran Kaur",
+      "phone": "+91 98123 45670",
+      "role": "customer",
+      "createdAt": "2024-03-01T15:00:00.000Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-bridal",
+      "nameEn": "Bridal Makeup (Dulhan Look)",
+      "nameHi": "शाही दुल्हन ब्राइडल मेकअप",
+      "category": "makeup",
+      "descriptionEn": "Full traditional or modern HD bridal look with high-definition base, contouring, jewelry setting, and waterproof finish.",
+      "descriptionHi": "वाटरप्रूफ फिनिश, 24K बेस, कंटूरिंग, नथ-माथापट्टी और ज्वेलरी सेटिंग के साथ शाही भारतीय दुल्हन मेकअप।",
+      "basePrice": 9999,
+      "durationMinutes": 180,
+      "image": "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80",
+      "popular": true
+    },
+    {
+      "id": "srv-party",
+      "nameEn": "Party & Sangeet Makeup",
+      "nameHi": "पार्टी और संगीत मेकअप",
+      "category": "makeup",
+      "descriptionEn": "Chic, glamorous Indian party look customized for cocktails, sangeet night, or festive family functions.",
+      "descriptionHi": "संगीत, कॉकटेल और शादी समारोह के लिए आकर्षक झुमके व लहंगे के अनुकूल टिकाऊ पार्टी मेकअप।",
+      "basePrice": 2499,
+      "durationMinutes": 75,
+      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80",
+      "popular": true
+    },
+    {
+      "id": "srv-engagement",
+      "nameEn": "Engagement / Roka Makeup",
+      "nameHi": "सगाई / रोका मेकअप",
+      "category": "makeup",
+      "descriptionEn": "Soft radiant glow with subtle pastel eyeshadows, delicate shimmer, and elegant hair styling for your special ring ceremony.",
+      "descriptionHi": "रोका और सगाई के लिए सॉफ्ट पिंक ग्लो, पेस्टल आईशैडो और एलिगेंट हेयरस्टाइलिंग।",
+      "basePrice": 4999,
+      "durationMinutes": 120,
+      "image": "https://images.unsplash.com/photo-1621786030685-2c2637a7f6ff?auto=format&fit=crop&w=800&q=80",
+      "popular": true
+    },
+    {
+      "id": "srv-hd-airbrush",
+      "nameEn": "HD & Airbrush Makeup",
+      "nameHi": "एचडी व एयरब्रश मेकअप",
+      "category": "makeup",
+      "descriptionEn": "Ultra-fine silicone airbrush mist for 24-hour poreless, photo-ready flawless skin without heavy layering.",
+      "descriptionHi": "कैमरा-रेडी पोर्स-लेस फिनिश, 24 घंटे चलने वाला अल्ट्रा फाइन एयरब्रश ब्राइडल बेस।",
+      "basePrice": 12999,
+      "durationMinutes": 150,
+      "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80",
+      "popular": true
+    },
+    {
+      "id": "srv-reception",
+      "nameEn": "Reception Makeup & Styling",
+      "nameHi": "रिसेप्शन मेकअप व स्टाइलिंग",
+      "category": "makeup",
+      "descriptionEn": "Contemporary high-glam evening look with statement lips, bold eye makeup, and Hollywood waves or textured buns.",
+      "descriptionHi": "शानदार इवनिंग रिसेप्शन लुक, स्मोकी आई मेकअप और खूबसूरत ट्रेडिशनल हेयरस्टाइल।",
+      "basePrice": 6999,
+      "durationMinutes": 120,
+      "image": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-mehendi",
+      "nameEn": "Mehendi / Henna Designing",
+      "nameHi": "मेहंदी डिजाइनिंग (दुल्हन व अरेबिक)",
+      "category": "makeup",
+      "descriptionEn": "Organic dark-staining henna applied in intricate Rajasthani, Arabic, or portrait patterns by certified mehendi artists.",
+      "descriptionHi": "शुद्ध प्राकृतिक गहरे रंग वाली मेहंदी, राजस्थानी, अरेबिक और खूबसूरत दुल्हन हाथ-पैर डिजाइन।",
+      "basePrice": 1999,
+      "durationMinutes": 180,
+      "image": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=800&q=80",
+      "popular": true
+    },
+    {
+      "id": "srv-hair-styling",
+      "nameEn": "Hair Styling & Curls with Gajra",
+      "nameHi": "गजरा हेयर स्टाइलिंग व कर्ल्स",
+      "category": "hair",
+      "descriptionEn": "Beach waves, voluminous bouncy curls, sleek glass straight, or traditional floral braided styles with fresh gajra.",
+      "descriptionHi": "मोगरा गजरा, वॉल्यूमिनस कर्ल्स, जूड़ा, पफ और ट्रेडिशनल फ्लोरल ब्राइडल चोटी।",
+      "basePrice": 999,
+      "durationMinutes": 45,
+      "image": "https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-facial-gold",
+      "nameEn": "Gold & Diamond Luxury Facial",
+      "nameHi": "24K गोल्ड व डायमंड फेशियल",
+      "category": "skin",
+      "descriptionEn": "Deep cleansing, gentle exfoliating, vacuum blackhead removal, 24K gold foil infusion, and soothing algae mask.",
+      "descriptionHi": "24K गोल्ड इंफ्यूजन, डीप क्लींजिंग, ब्लैकहेड रिमूवल और भारतीय त्वचा के लिए चमकदार स्किन ग्लो।",
+      "basePrice": 1499,
+      "durationMinutes": 60,
+      "image": "https://images.unsplash.com/photo-1589156280159-27698a70f29e?auto=format&fit=crop&w=800&q=80",
+      "popular": true
+    },
+    {
+      "id": "srv-cleanup-bleach",
+      "nameEn": "Clean-up & Herbal D-Tan Bleach",
+      "nameHi": "क्लीन-अप और हर्बल डी-टैन ब्लीच",
+      "category": "skin",
+      "descriptionEn": "Instant sun-tan removal, pore clearing herbal scrub, and cooling fruit pack for youthful clarity.",
+      "descriptionHi": "धूप से हुई टैनिंग हटाने और ताज़ा निखार के लिए प्राकृतिक हर्बल स्क्रब व फ्रूट पैक।",
+      "basePrice": 799,
+      "durationMinutes": 40,
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-waxing-full",
+      "nameEn": "Full Body Waxing (Rica / Chocolate)",
+      "nameHi": "फुल बॉडी वैक्सिंग (रिका / चॉकलेट)",
+      "category": "skin",
+      "descriptionEn": "Painless liposoluble Italian Rica wax or organic chocolate wax for silky-smooth, hair-free skin for weeks.",
+      "descriptionHi": "इतालियन रिका वैक्स या चॉकलेट वैक्स द्वारा रेशमी कोमल और बाल-मुक्त त्वचा।",
+      "basePrice": 1299,
+      "durationMinutes": 60,
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-threading",
+      "nameEn": "Threading & Facial Hair Contouring",
+      "nameHi": "थ्रेडिंग और अपर लिप शेपिंग",
+      "category": "skin",
+      "descriptionEn": "Expert precision eyebrow shaping, upper lip, forehead, and chin threading with organic antibacterial thread.",
+      "descriptionHi": "परफेक्ट आईब्रो शेपिंग, अपर लिप और फोरहेड थ्रेडिंग हाइजेनिक तरीके से।",
+      "basePrice": 149,
+      "durationMinutes": 20,
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-mani-pedi",
+      "nameEn": "Luxury Spa Manicure & Pedicure",
+      "nameHi": "लक्ज़री स्पा मैनीक्योर व पेडीक्योर",
+      "category": "nails",
+      "descriptionEn": "Aromatherapy rose soak, dead skin exfoliation, cuticle care, relaxing massage, and high-shine nail buffing.",
+      "descriptionHi": "गुलाब जल सोक, स्क्रबिंग, डेड स्किन रिमूवल और सुकून देने वाली फुट व हैंड मसाज।",
+      "basePrice": 1199,
+      "durationMinutes": 75,
+      "image": "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-nail-art",
+      "nameEn": "Nail Art & Gel Extensions",
+      "nameHi": "ब्राइडल नेल आर्ट और जेल एक्सटेंशन",
+      "category": "nails",
+      "descriptionEn": "Durable acrylic or gel extensions, French tips, chrome mirror effect, stones, and 3D floral art.",
+      "descriptionHi": "शादी और लहंगे के मैचिंग लाल-गोल्डन जेल एक्सटेंशन, ग्लिटर, क्रोम और 3D स्टोन वर्क।",
+      "basePrice": 1599,
+      "durationMinutes": 90,
+      "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+      "popular": true
+    },
+    {
+      "id": "srv-hair-spa",
+      "nameEn": "Hair Spa & Deep Keratin Nourish",
+      "nameHi": "हेयर स्पा और डीप कंडीशनिंग",
+      "category": "hair",
+      "descriptionEn": "Intensive scalp massage, steam therapy, and deep moisture infusion to banish frizz and split ends.",
+      "descriptionHi": "रूखे और बेजान बालों के लिए डीप हेयर स्पा, स्टीम थेरेपी और स्मूथ शाइन।",
+      "basePrice": 1299,
+      "durationMinutes": 60,
+      "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-keratin",
+      "nameEn": "Keratin & Nanoplastia Smoothening",
+      "nameHi": "केराटिन और स्मूथनिंग ट्रीटमेंट",
+      "category": "hair",
+      "descriptionEn": "Formaldehyde-free protein infusion delivering up to 6 months of mirror-shine, manageable, frizz-free straight hair.",
+      "descriptionHi": "6 महीने तक चमकदार, सीधे और रेशमी बालों के लिए प्रोटीन केराटिन ट्रीटमेंट।",
+      "basePrice": 4499,
+      "durationMinutes": 180,
+      "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-saree-draping",
+      "nameEn": "Professional Saree & Lehenga Draping",
+      "nameHi": "साड़ी और लहंगा ड्रेपिंग",
+      "category": "packages",
+      "descriptionEn": "Pin-perfect pleating in traditional South Indian silk, Gujarati seedha palla, modern mermaid, or butterfly styles.",
+      "descriptionHi": "बनारसी, कांजीवरम, साउथ इंडियन, गुजराती सीधा पल्ला या लहंगा दुपट्टे की आकर्षक पिन-परफेक्ट ड्रेपिंग।",
+      "basePrice": 499,
+      "durationMinutes": 30,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-groom-makeup",
+      "nameEn": "Groom Makeup & Beard Grooming",
+      "nameHi": "दूल्हा मेकअप और बियर्ड ग्रूमिंग",
+      "category": "makeup",
+      "descriptionEn": "Subtle, matte camera correction for grooms: beard styling, dark-circle correction, and non-shiny skin prep.",
+      "descriptionHi": "दूल्हे और बरातियों के लिए नेचुरल मैट फिनिश, दाढ़ी शेपिंग, सेहरा सेटिंग व डार्क सर्कल करेक्शन।",
+      "basePrice": 3499,
+      "durationMinutes": 60,
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-pre-bridal",
+      "nameEn": "Complete Pre-Bridal Glow Package",
+      "nameHi": "संपूर्ण प्री-ब्राइडल ग्लो पैकेज",
+      "category": "packages",
+      "descriptionEn": "Complete 3-to-7 day full-body overhaul: Body polishing, D-Tan, Gold facial, Brazilian waxing, Spa mani-pedi, and Hair spa.",
+      "descriptionHi": "शादी से पहले सिर से पांव तक पूरा निखार: बॉडी पॉलिशिंग, 24K फेशियल, वैक्सिंग, मैनी-पेडी व हेयर स्पा।",
+      "basePrice": 8499,
+      "durationMinutes": 240,
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "popular": true
+    },
+    {
+      "id": "srv-kids-makeup",
+      "nameEn": "Kids & Teen Event Makeup",
+      "nameHi": "बच्चों का पार्टी व स्टेज मेकअप",
+      "category": "makeup",
+      "descriptionEn": "Gentle, skin-safe mineral cosmetics for birthday parties, school annual days, and wedding flower girls.",
+      "descriptionHi": "लहंगा-चोली, डांस प्रतियोगिता और शादी समारोह के लिए बच्चों की नाजुक त्वचा पर सुरक्षित मिनरल मेकअप।",
+      "basePrice": 899,
+      "durationMinutes": 30,
+      "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-eyelashes",
+      "nameEn": "Eyelash Extensions & Lash Lift",
+      "nameHi": "आईलैश एक्सटेंशन व लैश लिफ्ट",
+      "category": "makeup",
+      "descriptionEn": "Semi-permanent silk lash extensions and keratin lash lift for deep, dramatic, fluttery eyes.",
+      "descriptionHi": "कजरारी और घनी पलकों के लिए सेमी-परमानेंट सिल्क आईलैश एक्सटेंशन और लैश लिफ्ट।",
+      "basePrice": 1899,
+      "durationMinutes": 60,
+      "image": "https://images.unsplash.com/photo-1583001931096-959e9a1a6223?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bkg-mvu0w08f",
+      "bookingNumber": "MS-9273",
+      "customerId": "cust-pooja-gupta",
+      "customerName": "Pooja Gupta",
+      "customerPhone": "9876543210",
+      "customerEmail": "pooja.gupta@example.com",
+      "artistId": "art-priya-sharma",
+      "artistName": "Priya Sharma (Priya Glamour Bridal Hub)",
+      "artistPhone": "+919811234567",
+      "serviceId": "srv-bridal",
+      "serviceName": "Bridal Makeup (Dulhan Look)",
+      "serviceImage": "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80",
+      "artistAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+      "date": "2026-11-05",
+      "timeSlot": "10:00 AM",
+      "address": "Saket",
+      "state": "Delhi NCR",
+      "district": "South Delhi",
+      "totalAmount": 11999,
+      "status": "pending",
+      "notes": "",
+      "createdAt": "2026-10-29T20:55:41.104Z"
+    },
+    {
+      "id": "bkg-mvu0vrvl",
+      "bookingNumber": "GLOW-6484",
+      "customerId": "guest-1793307330273",
+      "customerName": "Test",
+      "customerPhone": "9876543210",
+      "customerEmail": "guest@glowstudio.in",
+      "artistId": "art-priya-sharma",
+      "artistName": "Priya Sharma (Priya Glamour Bridal Hub)",
+      "artistPhone": "+91 98112 34567",
+      "serviceId": "srv-bridal",
+      "serviceName": "Bridal Makeup (Dulhan Look)",
+      "date": "2026-11-05",
+      "timeSlot": "10:00 AM",
+      "address": "Saket",
+      "state": "Delhi NCR",
+      "district": "South Delhi",
+      "totalAmount": 11999,
+      "status": "pending",
+      "notes": "",
+      "createdAt": "2026-10-29T20:55:30.273Z"
+    },
+    {
+      "id": "bkg-1001",
+      "bookingNumber": "GLOW-8291",
+      "customerId": "cust-pooja-gupta",
+      "customerName": "Pooja Gupta",
+      "customerPhone": "+91 98765 43210",
+      "customerEmail": "pooja.gupta@example.com",
+      "artistId": "art-priya-sharma",
+      "artistName": "Priya Sharma (Priya Glamour Bridal Hub)",
+      "artistPhone": "+91 98112 34567",
+      "serviceId": "srv-bridal",
+      "serviceName": "Bridal Makeup (Dulhan Look)",
+      "date": "2026-11-05",
+      "timeSlot": "10:00 AM",
+      "address": "Villa 14, Royal Greens, Saket",
+      "state": "Delhi NCR",
+      "district": "South Delhi",
+      "totalAmount": 11999,
+      "status": "confirmed",
+      "notes": "Bride wants soft pink smokey eyes with golden shimmer to match red lehenga.",
+      "createdAt": "2026-10-25T11:20:00.000Z"
+    },
+    {
+      "id": "bkg-1002",
+      "bookingNumber": "GLOW-8292",
+      "customerId": "cust-simran-kaur",
+      "customerName": "Simran Kaur",
+      "customerPhone": "+91 98123 45670",
+      "customerEmail": "simran.kaur@example.com",
+      "artistId": "art-ananya-verma",
+      "artistName": "Ananya Verma (Aura Studio)",
+      "artistPhone": "+91 97234 56789",
+      "serviceId": "srv-party",
+      "serviceName": "Party & Sangeet Makeup",
+      "date": "2026-11-02",
+      "timeSlot": "04:00 PM",
+      "address": "Flat 402, Sunshine Heights, Baner",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "totalAmount": 1999,
+      "status": "pending",
+      "notes": "Need natural dewy glow for sister sangeet ceremony.",
+      "createdAt": "2026-10-28T09:15:00.000Z"
+    },
+    {
+      "id": "bkg-1003",
+      "bookingNumber": "GLOW-8293",
+      "customerId": "cust-pooja-gupta",
+      "customerName": "Pooja Gupta",
+      "customerPhone": "+91 98765 43210",
+      "customerEmail": "pooja.gupta@example.com",
+      "artistId": "art-meera-singh",
+      "artistName": "Meera Rajput (Rajputana Hub)",
+      "artistPhone": "+91 94140 12345",
+      "serviceId": "srv-mehendi",
+      "serviceName": "Mehendi / Henna Designing",
+      "date": "2026-10-20",
+      "timeSlot": "02:00 PM",
+      "address": "Johari Bazaar, Near Temple",
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "totalAmount": 2199,
+      "status": "completed",
+      "notes": "Bridal hands and feet traditional design.",
+      "createdAt": "2026-10-18T14:00:00.000Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "artistId": "art-priya-sharma",
+      "customerId": "cust-pooja-gupta",
+      "customerName": "Sunita Aggarwal",
+      "rating": 5,
+      "comment": "Priya did my daughter’s bridal makeup and it was utterly breathtaking! No heaviness, stayed fresh throughout the 10-hour wedding rituals. Everyone praised her glow!",
+      "date": "2026-10-15",
+      "serviceName": "Bridal Makeup (Dulhan Look)"
+    },
+    {
+      "id": "rev-2",
+      "artistId": "art-ananya-verma",
+      "customerId": "cust-simran-kaur",
+      "customerName": "Rhea Mehra",
+      "rating": 5,
+      "comment": "Booked party makeup for my reception night. Ananya was on time, super professional, and hygiene standards were 10/10. Will definitely book again!",
+      "date": "2026-10-22",
+      "serviceName": "Party & Sangeet Makeup"
+    },
+    {
+      "id": "rev-3",
+      "artistId": "art-meera-singh",
+      "customerId": "cust-pooja-gupta",
+      "customerName": "Kavita Rathore",
+      "rating": 5,
+      "comment": "Meera ji is a true artist! Her mehendi color turned deep maroon and the figure designs of Radha-Krishna were marvelled at by all our guests.",
+      "date": "2026-10-21",
+      "serviceName": "Mehendi / Henna Designing"
+    },
+    {
+      "id": "rev-4",
+      "artistId": "art-tanvi-kapoor",
+      "customerId": "cust-simran-kaur",
+      "customerName": "Harpreet Dhillon",
+      "rating": 5,
+      "comment": "Took the complete Pre-Bridal package at home. The salon-like comfort in my own living room was unmatched. Super relaxed and glowing skin!",
+      "date": "2026-10-12",
+      "serviceName": "Complete Pre-Bridal Glow Package"
+    },
+    {
+      "id": "rev-5",
+      "artistId": "art-neha-joshi",
+      "customerId": "cust-pooja-gupta",
+      "customerName": "Shalini Desai",
+      "rating": 5,
+      "comment": "Neha’s HD Airbrush technique is flawless. The makeup didn’t melt even in Mumbai humidity during our outdoor sundowner!",
+      "date": "2026-09-30",
+      "serviceName": "HD & Airbrush Makeup"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1793307341104",
+      "title": "New Appointment Booking!",
+      "message": "Pooja Gupta booked Bridal Makeup (Dulhan Look) with Priya Sharma for 2026-11-05 at 10:00 AM.",
+      "type": "booking",
+      "createdAt": "2026-10-29T20:55:41.104Z",
+      "targetRole": "all"
+    },
+    {
+      "id": "notif-1793307330273",
+      "title": "New Appointment Booking!",
+      "message": "Test booked Bridal Makeup (Dulhan Look) with Priya Sharma for 2026-11-05 at 10:00 AM.",
+      "type": "booking",
+      "createdAt": "2026-10-29T20:55:30.273Z",
+      "targetRole": "all"
+    },
+    {
+      "id": "notif-1",
+      "title": "Wedding Season Special!",
+      "message": "Book any Bridal or Pre-Bridal package this month and get free Hair Spa & Saree Draping!",
+      "type": "info",
+      "createdAt": "2026-10-28T08:00:00.000Z",
+      "targetRole": "all"
+    },
+    {
+      "id": "notif-2",
+      "title": "MS Makeup Artist Safety & Hygiene Protocol",
+      "message": "All artists are verified and carry sanitized disposable makeup toolkits for at-home parlour sessions.",
+      "type": "success",
+      "createdAt": "2026-10-27T08:00:00.000Z",
+      "targetRole": "customer"
+    }
+  ]
+}

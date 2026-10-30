@@ -1,0 +1,6 @@
+{
+  "name": "MS Makeup Artist - Ghar Baithe Beauty Parlour & Booking",
+  "description": "Book certified Indian makeup artists and beauty parlour services at your doorstep. Call 8433405368 for Bridal, Party Makeup, Mehendi & Hair styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
